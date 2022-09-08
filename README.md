@@ -1,1 +1,1 @@
-# ml-project1
+# supervised-learning
